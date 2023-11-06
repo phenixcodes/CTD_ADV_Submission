@@ -44,15 +44,14 @@
 
 ### Step Three - Locate User Credentials :
 
+* Your app will have its own dashboard landing page on the Spotify Developer website. Locate and click the settings button to locate your "Client ID" & "Client Secret"
  
 <img width="1249" alt="Screen Shot 2023-11-05 at 3 05 27 PM" src="https://github.com/phenixcodes/CTD_ADV_Submission/assets/123134810/520f2758-630b-49ea-808f-5324cae4d26b">
-
-* Your app will have its own dashboard landing page. Locate and click the settings button to locate your "Client ID" & "Client Secret"
 
 <img width="1250" alt="Screen Shot 2023-11-05 at 2 50 40 PM" src="https://github.com/phenixcodes/CTD_ADV_Submission/assets/123134810/25192562-2178-4827-97d7-690b2b98432f">
 
 
-* Your Spotify User ID is located in your account settings here : https://www.spotify.com/us/account/overview/
+* Your Spotify User ID is located in your Spotify user account settings here : https://www.spotify.com/us/account/overview/
 
 <img width="1066" alt="Screen Shot 2023-11-05 at 4 20 59 PM" src="https://github.com/phenixcodes/CTD_ADV_Submission/assets/123134810/af79f265-fb7f-4f4a-973e-59793561866f">
 
