@@ -77,7 +77,9 @@
 
 <img width="810" alt="Screen Shot 2023-11-05 at 5 30 08 PM" src="https://github.com/phenixcodes/CTD_ADV_Submission/assets/123134810/c0fff596-6e8f-46f9-874a-381e3a8186a1">
 
+* You can reference all genre seeds in the "genre_seed.txt" file!
 
+  
 ### You can access a live demo of this project here on Replit :
 https://replit.com/@madebyphenix/PhenixCTDSubmit
 
@@ -89,7 +91,7 @@ https://replit.com/@madebyphenix/PhenixCTDSubmit
 
 * To display the playlist metadata onto the page, the user's playlists must be public. Developers can only fetch public information from Spotify's API. 
 * Spotify's API only allows up an array of 4 (5 elements) per seed for recommendations to render. Therefore, only 5 artists, albums, and genres per call. The API can be choppy and you can only input less than 5 elements per seed. You'll have to play around to see what it allows.
-* APIs often implement a rate limit. This limits how many times you can access their API in a given time frame. This can be very limiting and frustrating for developers.  You can reference Spotify's Documentation below :
+* APIs often implement a rate limit. This limits how many times you can access their API in a given time frame. This can be very limiting and frustrating for developers. You can reference Spotify's Documentation below :
 
 https://developer.spotify.com/documentation/web-api/concepts/rate-limits
 
