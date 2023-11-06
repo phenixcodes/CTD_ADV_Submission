@@ -1,4 +1,37 @@
-html {
-  height: 100%;
-  width: 100%;
+/* Paste your CSS styling from Phase 1 or write some new rules below! */
+body{
+    text-align: center;
 }
+h1, h2{
+    font-family: "montserrat", "helvetica", sans-serif;
+    padding: 15px;
+    word-wrap: break-word;
+}
+#header-text{
+    text-align: center;
+}
+div { 
+    display: inline-block;
+    padding: 25px;
+    margin: 5px;
+    word-wrap: normal;
+}
+.card{
+    margin: 20px;
+}
+.btn {
+    font-family: "roboto";
+    text-align: center;
+    margin-right: 300px;
+}
+.btn-secondary{
+    background-color: #202020 !important;
+    border: 0 !important; 
+}
+.image {
+  width: 130px;
+  height: 130px;
+  margin-top: 15px;
+  margin-bottom: 7px;
+}
+
