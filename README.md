@@ -90,7 +90,7 @@ https://replit.com/@madebyphenix/PhenixCTDSubmit
 ### Potential Roadblocks :
 
 * To display the playlist metadata onto the page, the user's playlists must be public. Developers can only fetch public information from Spotify's API. 
-* Spotify's API only allows up an array of 4 (5 elements) per seed for recommendations to render. Therefore, only 5 artists, albums, and genres per call. The API can be choppy and you can only input less than 5 elements per seed. You'll have to play around to see what it allows.
+* Spotify's API only allows up an array of 4 (5 elements) per seed for recommendations to render. Therefore, only 5 artists, albums, and genres per call. The API can be choppy and sometimes, you can only input less than 5 elements per seed. You'll have to play around to see what it allows.
 * APIs often implement a rate limit. This limits how many times you can access their API in a given time frame. This can be very limiting and frustrating for developers. You can reference Spotify's Documentation below :
 
 https://developer.spotify.com/documentation/web-api/concepts/rate-limits
