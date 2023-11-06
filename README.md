@@ -101,7 +101,7 @@ https://developer.spotify.com/documentation/web-api/concepts/api-calls
 This project was a challenging adventure but was well within my scope of knowledge and my javascript skillset. To get the ball rolling, I inherited a skeleton of API calls to Spotify's Web API. From there, I developed a fully functional web application that utilizes Javascript functions to display API modules to a web page. 
 Through this experience, I relied on and utilized my knowledge of variables, loops, functions, JS libraries, DOM, HTML, & CSS.
 
-#### What I'd do differently : 
+### What I'd do differently : 
 I would simplify the logic of making API calls and use mock functions to test my program and to counteract the rate limits. Additionally, I would further distribute the main js code into separate js files to make debugging much smoother.
 
 ### Further Refinements : 
