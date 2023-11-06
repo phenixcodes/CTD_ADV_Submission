@@ -22,7 +22,7 @@
 
 
 * Sign into your Spotify account or create a Spotify account to then make a Developer account (Developer accounts must be linked to an existing Spotify account).
-* 
+
 * Then, you will be redirected back to the developer site. If not, you can click the link above.
   
 * Once you've signed in, you will click your profile icon and then click "Dashboard".
