@@ -92,7 +92,7 @@ https://replit.com/@madebyphenix/PhenixCTDSubmit
 
 ### Potential Roadblocks :
 
-* To display the playlist metadata onto the page, the user's playlists must be public. Developers can only fetch public information from Spotify's API. 
+* To display the playlist metadata onto the page, the user's playlists must be public and added to the user's profile. Developers can only fetch public information from Spotify's API. 
 * Spotify's API only allows up an array of 4 (5 elements) per seed to allow the recommendations API to render. Therefore, only 5 artists, albums, and genres per call. The API can be fickle and at times, you can only input less than 5 elements per seed. Ultimately, you'll have to play around to see what it allows.
 * APIs often implement a rate limit. This will limit how many times you can access their API in a given time frame. This can be very limiting and frustrating for developers. You can reference Spotify's Documentation for more information below :
 
@@ -100,7 +100,7 @@ https://developer.spotify.com/documentation/web-api/concepts/rate-limits
 
 https://developer.spotify.com/documentation/web-api/concepts/api-calls
 
-### Project Reflections :
+## Project Reflections :
 This project was a challenging venture but was well within my scope of programming knowledge and Javascript skillset. To get the ball rolling, I inherited a skeleton of API calls to Spotify's Web API. From there, I developed a fully functional web application that utilizes Javascript functions to display API modules to a web page. Throughout this experience, I relied on and utilized my knowledge of variables, loops, functions, JS libraries, DOM, HTML, & CSS.
 
 ### What I'd do differently : 
